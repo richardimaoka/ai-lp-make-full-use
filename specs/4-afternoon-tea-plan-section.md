@@ -1,4 +1,4 @@
-### レトロ喫茶「[喫茶店名]」アフタヌーンティー ランディングページ構成案
+### レトロ喫茶「プリン喫茶 カラメルマントヒヒ」アフタヌーンティー ランディングページ構成案
 
 **4. アフタヌーンティープラン (Afternoon Tea Plans)**
 *   **見出し**: 「選べる3つのプラン。あなただけの特別な時間を。」
@@ -18,4 +18,17 @@
     *   **補足**: 「アフタヌーンティーは少し贅沢だけど、レトロな雰囲気とプリンを気軽に楽しみたい方に。サンドイッチやホットドッグなどの追加注文も可能です。」
     *   **ビジュアル**: プリンとドリンクが並んだ、カジュアルながらも魅力的な写真。
     *   **CTAボタン**: 「このセットを予約する」
+
+Here is a todo checklist for `@specs/4-afternoon-tea-plan-section.md`:
+
+**Tasks for Afternoon Tea Plan Section:**
+
+*   **喫茶店名 (Cafe Name)**:
+    *   [x] **Gemini CLI**: 決定された喫茶店名「プリン喫茶 カラメルマントヒヒ」で `[喫茶店名]` を置き換えます。
+*   **ビジュアル (Visual)**:
+    *   [ ] **Richard**: 各プランのビジュアルをご用意ください。
+*   **Component Creation**:
+    *   [ ] **Gemini CLI**: `@app/components/AfternoonTeaPlanSection.tsx` にて、アフタヌーンティープランセクションのReactコンポーネントを作成します。
+    *   [ ] **Gemini CLI**: `@app/components/AfternoonTeaPlanSection.module.css` を追加し、`@app/components/AfternoonTeaPlanSection.tsx` から読み込みます。
+    *   [ ] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/AfternoonTeaPlanSection.tsx` をimportして利用します。
 
