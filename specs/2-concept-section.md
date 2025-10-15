@@ -17,7 +17,10 @@ Here is a todo checklist for `@specs/2-concept-section.md`:
     *   [x] **Gemini CLI**: 決定された喫茶店名「プリン喫茶 カラメルマントヒヒ」で `[喫茶店名]` を置き換えます。
 *   **ビジュアル (Visual)**:
     *   [x] **Richard**: 店内の雰囲気を示す写真複数枚（カウンター、窓際の席、アンティークな調度品など）をご用意ください。
-        * ../images/2-concept-section-.xxxxxx.png
+        * [x] ../public/images/2-concept-section-antique.png
+        * [x] ../public/images/2-concept-section-counter.png
+        * [x] ../public/images/2-concept-section-sofa.png
+        * [x] ../public/images/2-concept-section-table.jpg
 *   **Component Creation**:
     *   [x] **Gemini CLI**: `@app/components/ConceptSection.tsx` にて、コンセプトセクションのReactコンポーネントを作成します。
     *   [x] **Gemini CLI**: `@app/components/ConceptSection.module.css` を追加し、`@app/components/ConceptSection.tsx` から読み込みます。

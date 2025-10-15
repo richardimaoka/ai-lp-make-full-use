@@ -10,9 +10,11 @@ const ConceptSection: React.FC = () => {
         創業40年の歴史と、こじんまりとしたレトロな内装の魅力を紹介。アンティーク家具、温かい照明、こだわりの食器など、具体的な描写で世界観を伝える。
         「日常を忘れ、ゆったりと流れる時間をお楽しみください。」
       </p>
-      {/* Visuals will go here */}
       <div className={styles['concept-visuals']}>
-        {/* Placeholder for images */}
+        <img src="/images/2-concept-section-antique.png" alt="Antique interior" />
+        <img src="/images/2-concept-section-counter.png" alt="Counter seating" />
+        <img src="/images/2-concept-section-sofa.png" alt="Sofa area" />
+        <img src="/images/2-concept-section-table.jpg" alt="Table setting" />
       </div>
     </section>
   );
