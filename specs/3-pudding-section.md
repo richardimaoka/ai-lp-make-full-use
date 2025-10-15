@@ -15,9 +15,11 @@ Here is a todo checklist for `@specs/3-pudding-section.md`:
 *   **喫茶店名 (Cafe Name)**:
     *   [x] **Gemini CLI**: 決定された喫茶店名「プリン喫茶 カラメルマントヒヒ」で `[喫茶店名]` を置き換えます。
 *   **プリン名 (Pudding Name)**:
-    *   [ ] **Richard**: プリン名 `[プリン名]` を最終決定してください。
+    *   [x] **Richard**: プリン名 `[プリン名]` を最終決定してください。
+        *   [x] プリン・マントヒヒ
 *   **ビジュアル (Visual)**:
-    *   [ ] **Richard**: プリンのクローズアップ写真（スプーンを入れた瞬間、カラメルの艶など、食欲をそそるアングル）をご用意ください。
+    *   [x] **Richard**: プリンのクローズアップ写真（スプーンを入れた瞬間、カラメルの艶など、食欲をそそるアングル）をご用意ください。
+        * [x] ../public/images/3-pudding-section.png
 *   **Component Creation**:
     *   [ ] **Gemini CLI**: `@app/components/PuddingSection.tsx` にて、プリンセクションのReactコンポーネントを作成します。
     *   [ ] **Gemini CLI**: `@app/components/PuddingSection.module.css` を追加し、`@app/components/PuddingSection.tsx` から読み込みます。
