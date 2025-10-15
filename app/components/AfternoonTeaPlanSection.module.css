@@ -17,9 +17,43 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 30px;
   margin-bottom: 30px;
-  max-width: 800px;
+  max-width: 1000px; /* Increased max-width for two columns */
   margin-left: auto;
   margin-right: auto;
+}
+
+.plan-content-wrapper {
+  display: flex;
+  flex-direction: column; /* Default to column on small screens */
+  align-items: flex-start; /* Align items to the start (top) */
+  gap: 30px;
+}
+
+@media (min-width: 768px) {
+  .plan-content-wrapper {
+    flex-direction: row; /* Row on larger screens */
+    text-align: left;
+  }
+
+  .plan-content-wrapper:nth-child(even) {
+    flex-direction: row-reverse; /* Alternate image position */
+  }
+}
+
+.plan-visual {
+  flex: 1;
+  min-width: 300px;
+}
+
+.plan-visual img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.plan-text-content {
+  flex: 2;
 }
 
 .plan-card h3 {
@@ -32,18 +66,6 @@
   font-size: 1.1em;
   line-height: 1.6;
   margin-bottom: 10px;
-}
-
-.plan-visual {
-  margin: 20px 0;
-}
-
-.plan-visual img {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .plan-card button {
