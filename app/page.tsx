@@ -1,5 +1,9 @@
+import FirstViewSection from './components/FirstViewSection';
+
 export default function Home() {
   return (
-    <h1>Hello world</h1>
+    <main>
+      <FirstViewSection />
+    </main>
   );
 }
