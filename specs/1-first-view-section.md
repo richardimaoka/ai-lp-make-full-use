@@ -15,8 +15,10 @@ Here is a todo checklist for `@specs/1-first-view-section.md`:
     *   [x] **Richard**: レトロな店内で、主役のプリンが際立つ豪華なアフタヌーンティーセットの俯瞰写真をご用意ください。
         *   [x] ../public/images/1-first-view-section-pudding.jpg
 *   **キャッチコピー (Catchy Headline)**:
-    *   [ ] **Richard**: 喫茶店名 `[喫茶店名]` を最終決定してください。
+    *   [x] **Richard**: 喫茶店名 `[喫茶店名]` を最終決定してください。
+        *   [x] `[喫茶店名]` = `プリン喫茶 カラメルマントヒヒ`
     *   [ ] **Gemini CLI**: 決定された喫茶店名で `[喫茶店名]` を置き換えます。
 *   **CTAボタン (CTA Button)**:
-    *   [ ] **Richard**: CTAボタンのテキストを「プランを見る」のみにするか、「今すぐ予約する」も追加するかご検討ください。
+    *   [x] **Richard**: CTAボタンのテキストを「プランを見る」のみにするか、「今すぐ予約する」も追加するかご検討ください。
+        *   [x] CTAボタンのテキストは「今すぐ予約する」のみ
     *   [ ] **Gemini CLI**: Richardさんの決定に基づいて、CTAボタンのテキストを更新します。
