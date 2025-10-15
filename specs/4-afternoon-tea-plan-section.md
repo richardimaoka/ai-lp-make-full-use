@@ -26,9 +26,12 @@ Here is a todo checklist for `@specs/4-afternoon-tea-plan-section.md`:
 *   **喫茶店名 (Cafe Name)**:
     *   [x] **Gemini CLI**: 決定された喫茶店名「プリン喫茶 カラメルマントヒヒ」で `[喫茶店名]` を置き換えます。
 *   **ビジュアル (Visual)**:
-    *   [ ] **Richard**: 各プランのビジュアルをご用意ください。
+    *   [x] **Richard**: 各プランのビジュアルをご用意ください。
+        * [x] ../public/images/4-afternoon-tea-plan-section-plan1.png
+        * [x] ../public/images/4-afternoon-tea-plan-section-plan2.png
+        * [x] ../public/images/4-afternoon-tea-plan-section-plan3.png
 *   **Component Creation**:
-    *   [ ] **Gemini CLI**: `@app/components/AfternoonTeaPlanSection.tsx` にて、アフタヌーンティープランセクションのReactコンポーネントを作成します。
-    *   [ ] **Gemini CLI**: `@app/components/AfternoonTeaPlanSection.module.css` を追加し、`@app/components/AfternoonTeaPlanSection.tsx` から読み込みます。
-    *   [ ] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/AfternoonTeaPlanSection.tsx` をimportして利用します。
+    *   [x] **Gemini CLI**: `@app/components/AfternoonTeaPlanSection.tsx` にて、アフタヌーンティープランセクションのReactコンポーネントを作成します。
+    *   [x] **Gemini CLI**: `@app/components/AfternoonTeaPlanSection.module.css` を追加し、`@app/components/AfternoonTeaPlanSection.tsx` から読み込みます。
+    *   [x] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/AfternoonTeaPlanSection.tsx` をimportして利用します。
 
