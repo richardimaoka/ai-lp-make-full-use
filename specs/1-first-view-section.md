@@ -12,7 +12,8 @@ Here is a todo checklist for `@specs/1-first-view-section.md`:
 **Tasks for First View Section:**
 
 *   **メインビジュアル (Main Visual)**:
-    *   [ ] **Richard**: レトロな店内で、主役のプリンが際立つ豪華なアフタヌーンティーセットの俯瞰写真をご用意ください。
+    *   [x] **Richard**: レトロな店内で、主役のプリンが際立つ豪華なアフタヌーンティーセットの俯瞰写真をご用意ください。
+        *   [x] ../public/images/1-first-view-section-pudding.jpg
 *   **キャッチコピー (Catchy Headline)**:
     *   [ ] **Richard**: 喫茶店名 `[喫茶店名]` を最終決定してください。
     *   [ ] **Gemini CLI**: 決定された喫茶店名で `[喫茶店名]` を置き換えます。
