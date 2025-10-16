@@ -1,0 +1,42 @@
+.reservation-section {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.reservation-section h2 {
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  color: #a0522d; /* Sienna color */
+}
+
+.reservation-section p {
+  font-size: 1.1em;
+  line-height: 1.8;
+  max-width: 800px;
+  margin: 0 auto 40px auto;
+}
+
+.reservation-ctas {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.reservation-ctas button {
+  background-color: #a0522d;
+  color: white;
+  padding: 15px 30px;
+  font-size: 1.2em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.reservation-ctas button:hover {
+  background-color: #8b4513;
+}

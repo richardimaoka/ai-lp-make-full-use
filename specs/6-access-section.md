@@ -18,8 +18,8 @@ Here is a todo checklist for `@specs/6-access-section.md`:
 *   **ビジュアル (Visual)**:
     *   [ ] **Richard**: Googleマップの埋め込みコードとカフェの外観写真をご用意ください。
 *   **Component Creation**:
-    *   [ ] **Gemini CLI**: `@app/components/AccessSection.tsx` にて、アクセスセクションのReactコンポーネントを作成します。
-    *   [ ] **Gemini CLI**: `@app/components/AccessSection.module.css` を追加し、`@app/components/AccessSection.tsx` から読み込みます。
-    *   [ ] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/AccessSection.tsx` をimportして利用します。
+    *   [x] **Gemini CLI**: `@app/components/AccessSection.tsx` にて、アクセスセクションのReactコンポーネントを作成します。
+    *   [x] **Gemini CLI**: `@app/components/AccessSection.module.css` を追加し、`@app/components/AccessSection.tsx` から読み込みます。
+    *   [x] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/AccessSection.tsx` をimportして利用します。
 
 

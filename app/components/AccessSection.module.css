@@ -1,0 +1,31 @@
+.access-section {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #fff;
+  color: #333;
+}
+
+.access-section h2 {
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  color: #a0522d; /* Sienna color */
+}
+
+.access-section p {
+  font-size: 1.1em;
+  line-height: 1.8;
+  max-width: 800px;
+  margin: 0 auto 40px auto;
+}
+
+.access-visuals {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.access-visuals div {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

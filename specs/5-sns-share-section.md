@@ -17,9 +17,9 @@ Here is a todo checklist for `@specs/5-sns-share-section.md`:
 *   **喫茶店名 (Cafe Name)**:
     *   [x] **Gemini CLI**: 決定された喫茶店名「プリン喫茶 カラメルマントヒヒ」で `[喫茶店名]` を置き換えます。
 *   **ビジュアル (Visual)**:
-    *   [ ] **Richard**: お客様が店内で写真撮影を楽しんでいる様子や、アフタヌーンティーセットのイメージをご用意ください。
+    *   [x] **Richard**: お客様が店内で写真撮影を楽しんでいる様子や、アフタヌーンティーセットのイメージをご用意ください。
 *   **Component Creation**:
-    *   [ ] **Gemini CLI**: `@app/components/SnsShareSection.tsx` にて、SNSシェアセクションのReactコンポーネントを作成します。
-    *   [ ] **Gemini CLI**: `@app/components/SnsShareSection.module.css` を追加し、`@app/components/SnsShareSection.tsx` から読み込みます。
-    *   [ ] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/SnsShareSection.tsx` をimportして利用します。
+    *   [x] **Gemini CLI**: `@app/components/SnsShareSection.tsx` にて、SNSシェアセクションのReactコンポーネントを作成します。
+    *   [x] **Gemini CLI**: `@app/components/SnsShareSection.module.css` を追加し、`@app/components/SnsShareSection.tsx` から読み込みます。
+    *   [x] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/SnsShareSection.tsx` をimportして利用します。
 

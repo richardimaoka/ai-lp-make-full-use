@@ -15,7 +15,7 @@ Here is a todo checklist for `@specs/7-reservation-section.md`:
 *   **喫茶店名 (Cafe Name)**:
     *   [x] **Gemini CLI**: 決定された喫茶店名「プリン喫茶 カラメルマントヒヒ」で `[喫茶店名]` を置き換えます。
 *   **Component Creation**:
-    *   [ ] **Gemini CLI**: `@app/components/ReservationSection.tsx` にて、予約セクションのReactコンポーネントを作成します。
-    *   [ ] **Gemini CLI**: `@app/components/ReservationSection.module.css` を追加し、`@app/components/ReservationSection.tsx` から読み込みます。
-    *   [ ] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/ReservationSection.tsx` をimportして利用します。
+    *   [x] **Gemini CLI**: `@app/components/ReservationSection.tsx` にて、予約セクションのReactコンポーネントを作成します。
+    *   [x] **Gemini CLI**: `@app/components/ReservationSection.module.css` を追加し、`@app/components/ReservationSection.tsx` から読み込みます。
+    *   [x] **Gemini CLI**: `@app/page.tsx` にて、`@app/components/ReservationSection.tsx` をimportして利用します。
 
